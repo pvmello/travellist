@@ -1,3 +1,14 @@
+Travel List application. This app allows users to
+specify the quantity and type of items,
+automatically adding them to a list below. The
+checkbox feature enables users to mark items
+as packed, providing visual cues for the
+packing progress.
+the application also offers functionalities such
+as clearing the entire list and sorting items
+based on user preferences and a nice message
+at the bottom of the page for a positive touch.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
